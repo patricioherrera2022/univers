@@ -1,0 +1,536 @@
+[
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Músculos que se encargan de los movimientos involuntarios.",
+        "respuesta": "Lisos",
+        "incorrecta1": "Estriados",
+        "incorrecta2": "Cardíacos",
+        "incorrecta3": "Esqueléticos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r",
+      "imagen": "https://i.ibb.co/RTffJbX/d.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Quién descubrió el sistema binario (base 2)?",
+        "respuesta": "Gottfried W. Leibnitz",
+        "incorrecta1": "Euclides De Alejandría",
+        "incorrecta2": "Arquímedes De Siracusa",
+        "incorrecta3": "Apolonio De Perge\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué lugar del cuerpo se produce la insulina?",
+        "respuesta": "Páncreas",
+        "incorrecta1": "Hígado",
+        "incorrecta2": "Intestino",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama a los electrones que se encuentran en la última capa del átomo?",
+        "respuesta": "Electrones De Valencia",
+        "incorrecta1": "Electrones",
+        "incorrecta2": "Iones",
+        "incorrecta3": "Isotopos\r",
+      "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo debería estar una persona para que le fuera practicada una autopsia? ",
+        "respuesta": "Muerta",
+        "incorrecta1": "En Coma",
+        "incorrecta2": "Dormida",
+        "incorrecta3": "Sedada\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son las enzimas?",
+        "respuesta": "Proteínas",
+        "incorrecta1": "Hadas ",
+        "incorrecta2": "Glúcidos",
+        "incorrecta3": "Células \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Los elefantes…",
+        "respuesta": "Barritan",
+        "incorrecta1": "Gritan",
+        "incorrecta2": "Gruñen",
+        "incorrecta3": "Brujen\r",
+      "imagen": "https://i.ibb.co/rZcFJrW/1036712.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué hay en la boca del estómago? ",
+        "respuesta": "El Cardias",
+        "incorrecta1": "El Píloro",
+        "incorrecta2": "Los Ácidos Gástricos",
+        "incorrecta3": "El Epilón Mayor\r"
+    },
+  
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De qué color es la sangre de los peces?",
+        "respuesta": "Rojo",
+        "incorrecta1": "Verde Oscuro",
+        "incorrecta2": "Marrón Oscuro",
+        "incorrecta3": "Azul\r",
+        "imagen": "https://i.ibb.co/Jyvx3Gb/540dc6daf152es296230-p-1.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál de los siguientes órganos NO es parte del sistema inmunológico?",
+        "respuesta": "Esófago",
+        "incorrecta1": "Médula Ósea",
+        "incorrecta2": "Bazo",
+        "incorrecta3": "Timo \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De dónde de saca la sacarina?",
+        "respuesta": "Del Carbón",
+        "incorrecta1": "Del Aceite De Girasol",
+        "incorrecta2": "Del Azúcar",
+        "incorrecta3": "Del Azufre\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué contiene el cactus llamado peyote?",
+        "respuesta": "Mescalina",
+        "incorrecta1": "Lsd ",
+        "incorrecta2": "Mdma",
+        "incorrecta3": "Salvia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué se altera cuando nos damos un golpe en la cabeza que nos hace \"ver las estrellas\"?",
+        "respuesta": "El Nervio Óptico",
+        "incorrecta1": "El Hipotálamo",
+        "incorrecta2": "El Bulbo Raquídeo",
+        "incorrecta3": "La Pituitaria\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el cérvido de mayor tamaño?",
+        "respuesta": "El Alce",
+        "incorrecta1": "El Corzo",
+        "incorrecta2": "El Ciervo",
+        "incorrecta3": "El Pudú\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es el calostro?",
+        "respuesta": "La Primera Leche Materna",
+        "incorrecta1": "Un Hueso De La Espina Dorsal",
+        "incorrecta2": "Una Hormona",
+        "incorrecta3": "Una Parte Del Intestino Grueso\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el hueso más pequeño del cuerpo?",
+        "respuesta": "El Estribo",
+        "incorrecta1": "El Yunque",
+        "incorrecta2": "La Falange",
+        "incorrecta3": "Ninguna Es Correcta\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué estudia la ictiología?",
+        "respuesta": "Los Peces",
+        "incorrecta1": "Las Rocas",
+        "incorrecta2": "Los Insectos",
+        "incorrecta3": "Las Erupciones Cutáneas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el mamífero más grande conocido hasta la actualidad?",
+        "respuesta": "Ballena Azul",
+        "incorrecta1": "Cachalote",
+        "incorrecta2": "Elefante",
+        "incorrecta3": "Rinoceronte\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es un equino?",
+        "respuesta": "Un Caballo",
+        "incorrecta1": "Una Vaca",
+        "incorrecta2": "Un Antílope",
+        "incorrecta3": "Una Oveja\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué causa furor en Internet?",
+        "respuesta": "Los Gatos",
+        "incorrecta1": "Los Ratones",
+        "incorrecta2": "Los Gansos",
+        "incorrecta3": "Los Cangrejos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Con qué nombre se conoce el ciclo del agua?",
+        "respuesta": "Ciclo Hidrológico",
+        "incorrecta1": "Ciclo Natural",
+        "incorrecta2": "Ciclo Hidropónico",
+        "incorrecta3": "Ciclo Acuoso\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué parte del cuerpo tienen rayas el okapi?",
+        "respuesta": "Las Patas",
+        "incorrecta1": "La Cabeza",
+        "incorrecta2": "El Torso",
+        "incorrecta3": "No Tiene Rayas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántas cavidades estomacales tiene una vaca?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Una",
+        "incorrecta2": "Dos",
+        "incorrecta3": "Tres\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Por qué los cocodrilos mantienen la boca abierta durante largo rato?",
+        "respuesta": "Para Calentarse",
+        "incorrecta1": "Para Hacer La Digestión",
+        "incorrecta2": "Para Beber Agua",
+        "incorrecta3": "Por Si Se Cuela Algo Que Puedan Comerse\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde están los meniscos?",
+        "respuesta": "En Las Rodillas",
+        "incorrecta1": "En Los Codos",
+        "incorrecta2": "En La Punta Del Pie",
+        "incorrecta3": "En El Peroné\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué hace la cochinilla de la humedad si la tocamos?",
+        "respuesta": "Se Enrolla",
+        "incorrecta1": "Pica",
+        "incorrecta2": "Corre",
+        "incorrecta3": "Se Muere\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es lo que transforma la leche en yogur?",
+        "respuesta": "Una Bacteria",
+        "incorrecta1": "Un Virus",
+        "incorrecta2": "Un Musgo",
+        "incorrecta3": "El Tiempo\r",
+        "imagen": "https://i.ibb.co/6ZWgY0f/recomendaciones-yogures.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Las nutrias de mar ¿con que abren las ostras?",
+        "respuesta": "Con Una Piedra",
+        "incorrecta1": "Con Un Palo",
+        "incorrecta2": "Con Los Dientes",
+        "incorrecta3": "Con Las Uñas\r",
+        "imagen": "https://i.ibb.co/3SSzLyQ/unnamed.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué tipo de mamífero es un conejo?",
+        "respuesta": "Lagomorfo",
+        "incorrecta1": "Roedor",
+        "incorrecta2": "Marsupial",
+        "incorrecta3": "Equino\r",
+        "imagen": "https://i.ibb.co/TqKxXn6/cuidados-del-conejo-3170-orig.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos rayos gamma emite una neurona cuando hace sinapsis?",
+        "respuesta": "Ninguno",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Dos",
+        "incorrecta3": "De Dos a Tres\r",
+        "imagen": "https://i.ibb.co/T8nnYyV/00.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama a la sensibilidad dolorosa de los sonidos?",
+        "respuesta": "Hiperacusia",
+        "incorrecta1": "Hipoacusia",
+        "incorrecta2": "Micropsia",
+        "incorrecta3": "Hipoalgesia\r"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cuál de estas redes sociales es de ámbito laboral?",
+        "respuesta": "Linkedin",
+        "incorrecta1": "Facebook",
+        "incorrecta2": "Tuenti",
+        "incorrecta3": "Jobfire\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama la parte de la estructura de una cúpula que la sostiene?",
+        "respuesta": "Tambor",
+        "incorrecta1": "Nervaduras",
+        "incorrecta2": "Contrafuerte",
+        "incorrecta3": "Ninguna\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el nivel más alto de la marea?",
+        "respuesta": "Pleamar",
+        "incorrecta1": "Bajamar",
+        "incorrecta2": "Repunte",
+        "incorrecta3": "Estacionario\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Con que parte del cuerpo hacen el zumbido las abejas?",
+        "respuesta": "Con Las Alas",
+        "incorrecta1": "Con Las Patas ",
+        "incorrecta2": "Con La Boca",
+        "incorrecta3": "Con Las Antenas\r",
+        "imagen": "https://i.ibb.co/C04sZM3/00.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el incremento en la fluidez y volumen de las deposiciones?",
+        "respuesta": "Diarrea",
+        "incorrecta1": "Estreñimiento",
+        "incorrecta2": "Diverticulosis",
+        "incorrecta3": "Hemorroides\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se mide la fuerza del viento en el mar?",
+        "respuesta": "Nudos",
+        "incorrecta1": "Pies",
+        "incorrecta2": "Zancadas",
+        "incorrecta3": "Kilómetros Por Hora\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el órgano que tiene como única función el placer?",
+        "respuesta": "Clítoris",
+        "incorrecta1": "Vulva",
+        "incorrecta2": "Pene",
+        "incorrecta3": "Testículos\r",
+        "imagen": "https://i.ibb.co/9y1q0cN/1425769522.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Con qué suele arreglarse un diente con caries?",
+        "respuesta": "Empaste",
+        "incorrecta1": "Extrayéndolo",
+        "incorrecta2": "Limpieza Bucal",
+        "incorrecta3": "Ortodoncia\r",
+        "imagen": "https://i.ibb.co/TLd7XTv/35.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la ciencia que estudia la aplicación de la informática y las comunicaciones al hogar?",
+        "respuesta": "Domótica",
+        "incorrecta1": "Robótica",
+        "incorrecta2": "Casática",
+        "incorrecta3": "Autología\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es el gavial (Gavialis gangeticus)?",
+        "respuesta": "Cocodrilo",
+        "incorrecta1": "Hipopótamo",
+        "incorrecta2": "Serpiente",
+        "incorrecta3": "Tiburón\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la fórmula química del agua?",
+        "respuesta": "H2O",
+        "incorrecta1": "HO",
+        "incorrecta2": "HO2",
+        "incorrecta3": "Agu\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo de Bromo?",
+        "respuesta": "Br",
+        "incorrecta1": "No Es Un Elemento, Es Un Compuesto",
+        "incorrecta2": "B",
+        "incorrecta3": "BH\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuáles son los efectos de la prolactina?",
+        "respuesta": "Producción De Leche",
+        "incorrecta1": "Crecimiento Del Cabello",
+        "incorrecta2": "Ayuda Al Parto",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué compuesto químico es el componente activo de los pimientos picantes?",
+        "respuesta": "Capsaicina",
+        "incorrecta1": "Celobiosa",
+        "incorrecta2": "Galactosa",
+        "incorrecta3": "Glucosa\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+        "respuesta": "En El Tobillo",
+        "incorrecta1": "En El  Brazo ",
+        "incorrecta2": "En La Espalda",
+        "incorrecta3": "En La Rodilla\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo del Sodio?",
+        "respuesta": "Na",
+        "incorrecta1": "Mn",
+        "incorrecta2": "Li",
+        "incorrecta3": "Au\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el nombre común del ácido ascórbico?",
+        "respuesta": "Vitamina C",
+        "incorrecta1": "Ácido Cítrico",
+        "incorrecta2": "Vitamina B6",
+        "incorrecta3": "Vitamina B12\r"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+        "respuesta": "Youtube",
+        "incorrecta1": "Cinetube",
+        "incorrecta2": "Glooge",
+        "incorrecta3": "Videotube\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué sustancias se liberan en una combustión completa?",
+        "respuesta": "Dióxido De Carbono Y Agua",
+        "incorrecta1": "Monóxido De Carbono Y Agua",
+        "incorrecta2": "Carbono, Oxígeno Y Agua",
+        "incorrecta3": "Solamente Agua\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Sistema operativo para telefonos más usado",
+        "respuesta": "Android",
+        "incorrecta1": "IOS",
+        "incorrecta2": "Microsoft",
+        "incorrecta3": "Windows\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué tipo de músculos realizan los movimientos voluntarios?",
+        "respuesta": "Estriados ",
+        "incorrecta1": "Lisos",
+        "incorrecta2": "Gordos ",
+        "incorrecta3": "Gruesos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son los \"julios\"?",
+        "respuesta": "Magnitud De La Energía, Trabajo Y Calor",
+        "incorrecta1": "Magnitud Para El Calor Del Sol",
+        "incorrecta2": "El Mes Más Frío Del Invierno",
+        "incorrecta3": "El Mes Más Caluroso Del Verano\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuál es la raíz cuadrada del 169?",
+        "respuesta": "13",
+        "incorrecta1": "15",
+        "incorrecta2": "14",
+        "incorrecta3": "17\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De cuál de estas plantas se extrae la marihuana?",
+        "respuesta": "Cannabis",
+        "incorrecta1": "Violeta Africana",
+        "incorrecta2": "Girasol",
+        "incorrecta3": "Amapola\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "respuesta": "Diamante",
+        "incorrecta1": "Adamantino",
+        "incorrecta2": "Cuarzo ",
+        "incorrecta3": "Mármol\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué dedo del pie tiene generalmente la uña más grande?",
+        "respuesta": "Dedo Gordo",
+        "incorrecta1": "Dedo Anular ",
+        "incorrecta2": "Dedo Meñique",
+        "incorrecta3": "Dedo Índice\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué sustancia libera el Sistema Parasimpático?",
+        "respuesta": "Acetilcolina",
+        "incorrecta1": "Adrenalina",
+        "incorrecta2": "Noradrenalina",
+        "incorrecta3": "Serotonina\r"
+    }
+]
