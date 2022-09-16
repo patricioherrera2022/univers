@@ -16,7 +16,7 @@
   <link href="./assets/favicon.ico" rel="icon">
 
   <title>Title page</title>  
-
+<link rel="stylesheet" href="juego.css">
 <link href="./main.3f6952e4.css" rel="stylesheet"></head>
 
 <body class="">
@@ -37,11 +37,11 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav ">
-          <li><a href="./index.html" title="">01 : Home</a></li>
-          <li><a href="./works.html" title="">02 : Works</a></li>
-          <li><a href="./about.html" title="">03 : About me</a></li>
-          <li><a href="./contact.html" title="">04 : Contact</a></li>
-          <li><a href="./components.html" title="">05 : Components</a></li>
+          <li><a href="./index.html" title="">A: Inicio</a></li>
+          <li><a href="./works.html" title="">B: Juego 1</a></li>
+          <li><a href="./about.html" title="">C: Juego 2</a></li>
+          <li><a href="./contact.html" title="">D: Juego 3</a></li>
+          <li><a href="./components.html" title="">E: Experiencia</a></li>
         </ul>
 
 
@@ -55,47 +55,33 @@
       <div class="row">
         <div class="col-xs-12">
           <div class="section-container-spacer text-center">
-            <h1 class="h2">01 : About me</h1>
-          </div>
-          
-          <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-              <div class="row">
-                <div class="col-xs-12 col-md-6">
-                  <h3>Consectetur adipiscing elit</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus at sem quis varius. 
-                  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras ultrices hendrerit nisl.</p>
-                  <h3>Ut enim ad minim </h3>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-                  <h3>Maecenas luctus at sem quis varius</h3>
-                  <p>
-                  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus iaculis magna sagittis elit sagittis, at hendrerit lorem venenatis. Morbi accumsan iaculis blandit. Cras ultrices hendrerit nisl.</p>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                  <img src="./assets/images/profil.jpg" class="img-responsive" alt="">
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          
-       </div>
-      </div>
-    </div>
-  </div>
+            <h1 class="h2">Paso 3</h1>
 
+            <h1>Preguntas Argento</h1>
+<p>Realiza nuestro verdadero o falso argentino. Una vez finalizado, realiza una captura de pantalla y compartila con el #premioTheProyectArgento</p>
+<button onclick="catAndQuest()" id="start"> EMPEZAR </button>
 
-<footer class="footer-container text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <p>© UNTITLED | Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a></p>
-      </div>
-    </div>
+<div class="container">
+  <div id="questions">
+    <div id="count"></div>
+    <div id="category"></span> </div>
+    <div id="quest"> </div>
+    <button onclick="answer(true)" style="display:none;" id="answerT"> VERDADERO</button>
+    <button onclick="answer(false)" style="display:none;" id="answerF"> FALSO</button>
+    <div id="points"></div>
   </div>
-</footer>
+  <div id="winner" style="display:none;">YOU WIN! <br>Congrats, smartypants!</div>
+  <div id="looser" style="display:none;">Sorry, no more questions.<br> You loose!</div>
+  <button onclick="restart()" style="display:none;" id="reset"> PLAY AGAIN? </button>
+  </div>
+  </div>
+  
+  
+  
+  <!-- JavaScript -->
+      <script src="resources/js/main.js"></script>
+  </body>
+  </html>
 
 <script>
   document.addEventListener("DOMContentLoaded", function (event) {
